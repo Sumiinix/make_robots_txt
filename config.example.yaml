@@ -1,0 +1,6 @@
+example.com: 
+  source:
+    - 'source/example.com.txt'
+    - 'https://example.com/robots.txt'
+  output:
+    - 'output/example.com/robots.txt'
